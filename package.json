@@ -1,0 +1,14 @@
+{
+  "name": "nostr-client",
+  "version": "0.1.0",
+  "description": "シンプルなNostrクライアント",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "nostr-tools": "^2.13.0",
+    "websocket": "^1.0.34",
+    "ws": "^8.18.2"
+  }
+}
